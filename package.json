@@ -1,0 +1,19 @@
+{
+  "name": "longestword",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaitanya1k/Code-Addidct-JS-Challenge.git"
+  },
+  "author": "chaitanya krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaitanya1k/Code-Addidct-JS-Challenge/issues"
+  },
+  "homepage": "https://github.com/chaitanya1k/Code-Addidct-JS-Challenge#readme"
+}
